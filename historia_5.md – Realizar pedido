@@ -1,0 +1,17 @@
+# Historia de Usuario 5: Realizar Pedido
+
+## Historia
+
+Como usuario autenticado,
+
+quiero confirmar mi compra mediante un método de pago simulado,
+
+para recibir un número de orden y recoger mi pedido en el local.
+
+## Criterios de aceptación
+
+* El sistema debe mostrar un resumen del pedido antes de confirmar.
+* El usuario debe seleccionar un método de pago simulado.
+* El sistema debe calcular correctamente el valor total.
+* Al confirmar, debe generarse un número de orden único.
+* El sistema debe mostrar un mensaje de confirmación del pedido.
