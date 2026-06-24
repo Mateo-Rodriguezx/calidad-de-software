@@ -1,0 +1,17 @@
+# Historia de Usuario 2: Inicio de Sesión
+
+## Historia
+
+Como usuario registrado,
+
+quiero iniciar sesión con mi correo electrónico y contraseña,
+
+para acceder a mi cuenta y realizar pedidos.
+
+## Criterios de aceptación
+
+* El sistema debe validar las credenciales ingresadas.
+* El usuario solo podrá acceder si el correo y contraseña son correctos.
+* Debe mostrarse un mensaje de error cuando las credenciales sean inválidas.
+* El sistema debe redirigir al menú principal después del inicio de sesión exitoso.
+* La sesión debe mantenerse activa mientras el usuario navega en la aplicación.
