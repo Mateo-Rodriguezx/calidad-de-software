@@ -1,0 +1,17 @@
+# Historia de Usuario 6: Historial de Pedidos
+
+## Historia
+
+Como usuario autenticado,
+
+quiero consultar mis pedidos anteriores,
+
+para revisar las compras realizadas en la aplicación.
+
+## Criterios de aceptación
+
+* El sistema debe mostrar una lista de pedidos realizados por el usuario.
+* Cada pedido debe incluir número de orden, fecha y total.
+* El usuario debe poder visualizar el detalle de cada pedido.
+* Los pedidos deben mostrarse ordenados del más reciente al más antiguo.
+* El historial debe mantenerse disponible entre sesiones.
