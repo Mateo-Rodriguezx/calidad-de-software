@@ -1,0 +1,14 @@
+# LePetitDep
+
+## Descripción
+
+LePetitDep es una aplicación web ficticia que permite a los usuarios solicitar cafés y productos de panadería para recoger en el local. La plataforma ofrece una experiencia sencilla e intuitiva, permitiendo registrar usuarios, explorar el menú, agregar productos al carrito, realizar pedidos y consultar el historial de compras.
+
+## Funcionalidades principales
+
+1. Registro de usuario.
+2. Inicio de sesión.
+3. Exploración del menú.
+4. Agregar productos al carrito.
+5. Realizar pedido.
+6. Historial de pedidos.
