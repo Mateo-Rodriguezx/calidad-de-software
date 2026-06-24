@@ -1,0 +1,17 @@
+# Historia de Usuario 4: Agregar Productos al Carrito
+
+## Historia
+
+Como usuario autenticado,
+
+quiero agregar productos y seleccionar cantidades,
+
+para preparar mi pedido antes de confirmarlo.
+
+## Criterios de aceptación
+
+* El usuario debe poder seleccionar uno o varios productos.
+* Debe ser posible indicar la cantidad deseada de cada producto.
+* El sistema debe actualizar automáticamente el total del carrito.
+* El usuario debe poder modificar o eliminar productos del carrito.
+* El carrito debe conservar los productos mientras la sesión permanezca activa.
