@@ -1,0 +1,17 @@
+# Historia de Usuario 3: Explorar Menú
+
+## Historia
+
+Como usuario autenticado,
+
+quiero visualizar el catálogo de cafés y productos de panadería,
+
+para conocer las opciones disponibles antes de realizar un pedido.
+
+## Criterios de aceptación
+
+* El sistema debe mostrar una lista de productos disponibles.
+* Cada producto debe incluir nombre, descripción y precio.
+* Los productos deben estar organizados de forma clara y legible.
+* El usuario debe poder desplazarse por todo el catálogo.
+* La información mostrada debe estar actualizada.
